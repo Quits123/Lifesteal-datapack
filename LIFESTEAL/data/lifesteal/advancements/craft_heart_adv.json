@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "lifesteal:heart"
+            }
+        }
+    },
+    "rewards": {
+        "function": "lifesteal:crafted_heart"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "TWT",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        },
+        "T": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "W": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

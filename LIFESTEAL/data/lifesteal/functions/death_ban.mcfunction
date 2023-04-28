@@ -1,0 +1,1 @@
+ban @a[scores={ls_banned=1..}]
